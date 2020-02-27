@@ -15,7 +15,7 @@ Get download the .spacemacs file and create a symbolic link in the home director
 git clone --depth 1 https://github.com/syl20bnr/spacemacs ~/.emacs.d
 git clone --depth 1 git@github.com:thspinto/dotfiles.git ~/workspace/dotfiles
 
-ln -s ~/.spacemacs ~/workspace/dotfiles/.spacemacs
+ln -s ~/workspace/dotfiles/.spacemacs ~/.spacemacs
 ```
 
 Shortcuts [cheatsheet](https://gist.github.com/rnwolf/e09ae9ad6d3ac759767d129d52cab1f1)
